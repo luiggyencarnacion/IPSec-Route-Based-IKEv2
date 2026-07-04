@@ -1,14 +1,14 @@
-# 🔒 VPN IPSec Route-Based — IKEv2
-
+# 🔒 VPN Site-to-Site IPSec Route-Based — IKEv2
+ 
 **Luiggy Habraham Encarnación Cabrera · Matrícula 2025-0663**
-
+ 
 ![Cisco](https://img.shields.io/badge/Cisco-IOS-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Topologia](https://img.shields.io/badge/Topolog%C3%ADa-Site--to--Site-8A2BE2?style=for-the-badge)
 ![Modelo](https://img.shields.io/badge/Modelo-Route--Based%20(VTI)-8A2BE2?style=for-the-badge)
 ![IKE](https://img.shields.io/badge/IKE-v2-2E8B57?style=for-the-badge)
 ![GNS3](https://img.shields.io/badge/Emulador-GNS3-009639?style=for-the-badge)
-![Uso](https://img.shields.io/badge/Uso-Educativo-blue?style=for-the-badge)
 
-> Migración de la VPN Route-Based (VTI) a IKEv2, combinando el perfil IPSec con el perfil IKEv2.
+> VPN site-to-site IPSec basada en rutas (VTI) con IKEv2: el cifrado lo decide la tabla de enrutamiento, no una ACL.
 
 ---
 
