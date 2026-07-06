@@ -97,7 +97,7 @@ Migrar el laboratorio de IPSec Route-Based (VTI) a **IKEv2**, combinando la inte
 
 ## 🔧 Configuración
 
-Ver archivo: `Configuración para VPN IPSec Route-Based IKEv2.txt`
+Ver archivo: `files/config.txt`
 
 ---
 
@@ -119,7 +119,7 @@ Se espera:
 ## 📸 Capturas de Pantalla
 
 ```
-evidencias/
+images/
 ├── 01_topologia.png
 ├── 02_show_ip_route.png
 ├── 03_show_crypto_ikev2_sa.png
